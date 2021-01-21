@@ -2,7 +2,7 @@
 authors = []
 date = 2021-01-19T23:00:00Z
 excerpt = "Gonzalez.com.es"
-hero = "/images/img_20201211_110327.jpg"
+hero = "/uploads/images/img_20201211_110807.jpg"
 title = "Gonzalez.com.es"
 
 +++
