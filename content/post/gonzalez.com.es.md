@@ -10,4 +10,6 @@ title = "Gonzalez.com.es"
 
 First deploy, and first good configuration to release into cloudflare
 
-![](/images/img_20201211_110327.jpg) This is what you are going to find when you buy a copy of seiko skx.
+![](/uploads/images/img_20201211_1057012.jpg)
+
+ This is what you are going to find when you buy a copy of seiko skx.
