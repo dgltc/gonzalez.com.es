@@ -2,7 +2,7 @@
 authors = []
 date = 2021-01-19T23:00:00Z
 excerpt = "Gonzalez.com.es"
-hero = "/uploads/images/no_gasket_and_spring_bars_case_kit.jpg"
+hero = "/uploads/images/descarga.png"
 title = "Gonzalez.com.es"
 
 +++
