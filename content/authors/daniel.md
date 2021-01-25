@@ -1,8 +1,7 @@
 +++
 avatar = ""
-bio = ""
-draft = true
-featured = false
+bio = "Daniel es desarrollador y generador de contenido del site"
+featured = true
 social = []
 title = "Daniel"
 
