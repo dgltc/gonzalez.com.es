@@ -2,7 +2,7 @@
 authors = []
 date = 2021-01-24T23:00:00Z
 excerpt = "Que es el excerpt?"
-hero = ""
+hero = "/v1611597535/pigmento-en-polvo-fotoluminiscente-en-verde_1_rbvejz.gif"
 title = "Hacer lumen en casa"
 
 +++
