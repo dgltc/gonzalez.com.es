@@ -1,5 +1,5 @@
-[Params]
-    cloudinary_url = "https://res.cloudinary.com/djelhbuhx/image/upload"
+[params]
+    cloudinaryurl = "https://res.cloudinary.com/djelhbuhx/image/upload"
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
