@@ -2,7 +2,7 @@
     <div class="author-hero">
         {{ with .Params.avatar }}
             <div class="author-hero-image">
-                <img src="{{ . }}" />
+                <img src="{{ .Params.cloudinary_url }}/{{ . }}" />
             </div>
         {{ end }}
         <h1 class="author-heading">{{ .Title }}</h1>
