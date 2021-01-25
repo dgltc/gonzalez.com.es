@@ -6,4 +6,12 @@ hero = "/v1611589891/IMG_20201021_170533_h4j9jb.jpg"
 title = "Pintado de agujas de reloj"
 
 +++
-vale, foto nueva
+Modificación:
+
+Cristal Zafiro
+
+Besel tipo tudor
+
+Agujas deportivas
+
+armis de acero
