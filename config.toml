@@ -1,5 +1,4 @@
-[images]
-cloudinary_url = "https://res.cloudinary.com/demo/image/upload"
+cloudinary_url = "https://res.cloudinary.com/djelhbuhx/image/upload"
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
