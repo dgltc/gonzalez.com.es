@@ -5,4 +5,4 @@ product_main_image = "/v1611597535/pigmento-en-polvo-fotoluminiscente-en-verde_1
 product_name = "Agujas"
 
 +++
-Las agujas de reloj sirven para esto
+Las aguredejas de reloj sirven para esto
